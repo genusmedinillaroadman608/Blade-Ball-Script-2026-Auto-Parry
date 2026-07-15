@@ -1,0 +1,5 @@
+pillow
+colorama
+psutil
+aiohttp
+pywin32
